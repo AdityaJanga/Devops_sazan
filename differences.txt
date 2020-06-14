@@ -1,8 +1,12 @@
 hello hi
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 ihello
 =======
 hell im
 >>>>>>> 31b34a45f733f23a55cd134638172859c2bbb8c9
+=======
+hell im
+>>>>>>> eb8f880... changes for diff
