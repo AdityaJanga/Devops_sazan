@@ -1,4 +1,8 @@
 hello hi
+<<<<<<< HEAD
 
 
 ihello
+=======
+hell im
+>>>>>>> 31b34a45f733f23a55cd134638172859c2bbb8c9
